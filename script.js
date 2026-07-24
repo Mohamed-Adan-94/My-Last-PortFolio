@@ -7,7 +7,9 @@ const roles = [
     'Computer Networks & Security Student',
     'Cybersecurity Enthusiast',
     'Web Developer',
-    'Student Leader'
+    'Multimedia Designer',
+    'Student Leader',
+    'Committed to Growth, Leadership & Impact'
 ];
 
 // Get the typing element
